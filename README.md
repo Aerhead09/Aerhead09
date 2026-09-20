@@ -15,7 +15,7 @@ to go — most likely somewhere around software engineering.
 - 🛠️ Hobbyist tinkerer — I build small tools, prototypes, and things 
   that scratch my own itch
 - 🎮 Into gaming, and occasionally prototyping small games
-- 🎨 Can draw — currently an **illustrator yang belum debut** wkwk
+- 🎨 Can draw — currently an **illustrator who hasn't debuted yet** wkwk
 - 🌱 Currently learning: whatever catches my interest. Mostly software, 
   systems, and how things work under the hood.
 
