@@ -52,7 +52,9 @@ to go — most likely somewhere around software engineering.
 
 ### 📫 Reach Me
 
-- 📧 jeankisekiwaluyo09@gmail.com
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeanyudhistira09/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-waluyo-337943379/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeankisekiwaluyo09@gmail.com)
 
 ---
 
